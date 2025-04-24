@@ -33,7 +33,7 @@ box on homepage. After this you can see tickets as well as seat arrangement,
 where you can see which seats are book and accordingly you can select your seat.
 After successful payment, you can download softcopy of tickets.
 Similarly to get City Bus Pass firstly you have to fill the city bus pass
-application form.
+application form..
 
 
 
