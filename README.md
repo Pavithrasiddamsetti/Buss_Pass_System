@@ -1,5 +1,4 @@
 
-![serene-bus-inverted (2)](https://user-images.githubusercontent.com/85924566/163560670-a6b729fd-aea2-48a5-9e7c-cc7282abd823.png)
 # Bus Pass System
 
 ## Description
